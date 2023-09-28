@@ -1,0 +1,31 @@
+﻿SEO-17 Sep
+
+
+Ques1-Answer
+      SEO stands for Search engine Optmization.The primary goal of seo is to increase organic traffic to a website be enhancing its online presence and making it more appealing to search engine algorithms.
+Importance:
+1. Keyword optimization.
+2. Content quality
+3. On page SEO
+4. Link Building 
+5. User experience
+
+
+Ques2-Answer
+  Meta tags in html provide information about a webpage content and meta data to web browser and search engine.
+Benefits:
+  1.Title tag.
+  2.Meta descriptive tag 
+  3.viewport meta tag.
+
+
+
+
+
+
+Ques5-Answer
+   Favicon:  favicon is a small image or  icon that is displayed in a web browser tab or next to the url in the address bar when a user visit a website.
+
+
+Eg:
+<Link rel=”icon” herf=”favicon.icn” type=”image/x-icon”>
